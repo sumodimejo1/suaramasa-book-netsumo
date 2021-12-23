@@ -1,8 +1,8 @@
 {
-  "name-web":"https://medico.ritaguerra.net/",
-  "author":"https://medico.ritaguerra.net/",
+  "name-web":"https://book.suaramasa.com/",
+  "author":"https://book.suaramasa.com/",
   "remove-comment-html":true,
-  "target":"https://www.healthline.com/",
+  "target":"https://testbook.com/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
